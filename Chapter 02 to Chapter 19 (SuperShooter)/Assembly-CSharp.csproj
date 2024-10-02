@@ -98,6 +98,7 @@
     <Compile Include="Assets\Chapter 06 (CSharp)\Scripts\PlayerMovement_OldInput.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\WavesGameMode.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\Enemy.cs" />
+    <Compile Include="Assets\myFirstScript.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\EnemyManager.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\WavesManager.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\Life_Chapter8.cs" />

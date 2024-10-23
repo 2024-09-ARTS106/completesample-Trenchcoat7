@@ -64,6 +64,7 @@
     <Compile Include="Assets\Chapter 15 (CSharp)\Scripts\EnemiesUI.cs" />
     <Compile Include="Assets\Chapter 11 (CSharp)\Scripts\ExplosionOnDeath.cs" />
     <Compile Include="Assets\Chapter 15 (CSharp)\Scripts\WavesUI.cs" />
+    <Compile Include="Assets\something\movePlayer.cs" />
     <Compile Include="Assets\Chapter 19\Pool.cs" />
     <Compile Include="Assets\Chapter 06 (CSharp)\Scripts\ForwardMovement.cs" />
     <Compile Include="Assets\Chapter 06 (CSharp)\Scripts\WaveSpawner.cs" />
@@ -96,12 +97,14 @@
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\ScoreManager.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\EnableCursor.cs" />
     <Compile Include="Assets\Chapter 06 (CSharp)\Scripts\PlayerMovement_OldInput.cs" />
+    <Compile Include="Assets\something\playerMouseMovement.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\WavesGameMode.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\Enemy.cs" />
     <Compile Include="Assets\myFirstScript.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\EnemyManager.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\WavesManager.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\Life_Chapter8.cs" />
+    <Compile Include="Assets\playerMove.cs" />
     <Compile Include="Assets\Chapter 17 (CSharp)\Scripts\NavMeshAnimator.cs" />
     <Compile Include="Assets\Chapter 06 (CSharp)\Scripts\PlayerShooting_NewInput.cs" />
   </ItemGroup>

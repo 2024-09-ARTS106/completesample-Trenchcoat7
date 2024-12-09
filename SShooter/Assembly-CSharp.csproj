@@ -68,6 +68,7 @@
     <Compile Include="Assets\Chapter 19\Pool.cs" />
     <Compile Include="Assets\Chapter 06 (CSharp)\Scripts\ForwardMovement.cs" />
     <Compile Include="Assets\Chapter 06 (CSharp)\Scripts\WaveSpawner.cs" />
+    <Compile Include="Assets\Matthew Guz\Status Effects and Auras FREE\Scripts\CameraRotation.cs" />
     <Compile Include="Assets\Chapter 07 (CSharp)\Scripts\Life.cs" />
     <Compile Include="Assets\Chapter 06 (CSharp)\Scripts\PlayerShooting_OldInput.cs" />
     <Compile Include="Assets\Chapter 11 (CSharp)\Scripts\PlayerShooting_Chapter11.cs" />
@@ -113,6 +114,7 @@
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\Matthew Guz\Status Effects and Auras FREE\Documentation\Readme IMPORTANT.txt" />
     <None Include="Assets\csc.rsp" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\Chapter 16\GameHUD.uxml" />
@@ -994,6 +996,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Postprocessing.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll</HintPath>
       <Private>False</Private>
@@ -1164,6 +1170,10 @@
     </Reference>
     <Reference Include="Unity.Mathematics">
       <HintPath>Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Postprocessing.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">

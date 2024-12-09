@@ -100,6 +100,7 @@
     <Compile Include="Assets\something\playerMouseMovement.cs" />
     <Compile Include="Assets\AssetStoreOriginals\_SNAPS_PrototypingAssets\About\Scripts\Readme.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\WavesGameMode.cs" />
+    <Compile Include="Assets\Petal Particles - Cherry Petals\Demo Scene\Script\DemoScene.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\Enemy.cs" />
     <Compile Include="Assets\myFirstScript.cs" />
     <Compile Include="Assets\Chapter 08 (CSharp)\Scripts\EnemyManager.cs" />
@@ -117,6 +118,7 @@
     <None Include="Assets\Chapter 16\GameHUD.uxml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\Petal Particles - Cherry Petals\ReadMe.txt" />
     <None Include="Assets\Chapter 14 (CSharp)\explosionsoundslite\readme.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\Chapter 12\AllSkyFree\AllSkyFree_Readme.txt" />

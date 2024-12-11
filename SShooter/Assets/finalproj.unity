@@ -1989,7 +1989,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 226a20189c7e3f8418be0bbe76f80b28, type: 2}
+  - {fileID: 2100000, guid: 51b3d109d6a76ba42ac79d496377371d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -37082,7 +37082,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 226a20189c7e3f8418be0bbe76f80b28, type: 2}
+  - {fileID: 2100000, guid: 51b3d109d6a76ba42ac79d496377371d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -71519,7 +71519,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3081362037621676516, guid: 0e1cda1849280884a99fa85ea45ffbbc, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4850777541897618062, guid: 0e1cda1849280884a99fa85ea45ffbbc, type: 3}
       propertyPath: InitialModule.startColor.maxColor.a
